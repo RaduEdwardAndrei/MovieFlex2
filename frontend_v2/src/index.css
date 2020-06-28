@@ -1,0 +1,6 @@
+body {
+    background-size: 500%;
+    background-image: url('./img/backgroundpic.png');
+    background-color: #ffaa00;
+    min-height: 100%;
+}

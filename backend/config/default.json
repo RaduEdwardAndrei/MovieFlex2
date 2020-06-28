@@ -1,0 +1,6 @@
+{
+    "mongoURI":"mongodb+srv://Edward:Ferrary19.@cluster0-plezl.gcp.mongodb.net/test?retryWrites=true&w=majority",
+    "JWT_SECRET_KEY": "myawesomeultrasecretkey",
+    "NODEMAILER_USERNAME": "licentamovieflex@gmail.com",
+    "NODEMAILER_PASSWORD": "Ferrary19."
+}
