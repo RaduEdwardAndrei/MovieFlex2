@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/MovieFlex2/static/css/main.cc9ce9aa.chunk.css",
+    "main.js": "/MovieFlex2/static/js/main.904321db.chunk.js",
+    "main.js.map": "/MovieFlex2/static/js/main.904321db.chunk.js.map",
+    "runtime-main.js": "/MovieFlex2/static/js/runtime-main.cd53c83b.js",
+    "runtime-main.js.map": "/MovieFlex2/static/js/runtime-main.cd53c83b.js.map",
+    "static/css/2.e7c4c567.chunk.css": "/MovieFlex2/static/css/2.e7c4c567.chunk.css",
+    "static/js/2.e86de260.chunk.js": "/MovieFlex2/static/js/2.e86de260.chunk.js",
+    "static/js/2.e86de260.chunk.js.map": "/MovieFlex2/static/js/2.e86de260.chunk.js.map",
+    "index.html": "/MovieFlex2/index.html",
+    "precache-manifest.277f87a060459a868e809f101bd0115b.js": "/MovieFlex2/precache-manifest.277f87a060459a868e809f101bd0115b.js",
+    "service-worker.js": "/MovieFlex2/service-worker.js",
+    "static/css/2.e7c4c567.chunk.css.map": "/MovieFlex2/static/css/2.e7c4c567.chunk.css.map",
+    "static/css/main.cc9ce9aa.chunk.css.map": "/MovieFlex2/static/css/main.cc9ce9aa.chunk.css.map",
+    "static/js/2.e86de260.chunk.js.LICENSE.txt": "/MovieFlex2/static/js/2.e86de260.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/MovieFlex2/static/media/backgroundpic.efe4fbe8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd53c83b.js",
+    "static/css/2.e7c4c567.chunk.css",
+    "static/js/2.e86de260.chunk.js",
+    "static/css/main.cc9ce9aa.chunk.css",
+    "static/js/main.904321db.chunk.js"
+  ]
+}
